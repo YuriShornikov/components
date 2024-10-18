@@ -1,0 +1,12 @@
+.search-block {
+    position: relative;
+}
+
+.search-block img {
+    position: absolute;
+    left: -100px;
+}
+
+.banner {
+    margin-bottom: 20px;
+}

@@ -1,0 +1,10 @@
+.weather {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+
+.weather ul {
+    list-style-type: none;
+}

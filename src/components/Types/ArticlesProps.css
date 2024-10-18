@@ -1,0 +1,13 @@
+.art-link {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+span {
+    font-weight: 700;
+}

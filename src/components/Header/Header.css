@@ -1,0 +1,10 @@
+.top-blocks, .search-menu, .search-block {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    font-size: 20px;
+}
+
+.block:nth-child(1) a {
+    color: #130e89;
+}
